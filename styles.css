@@ -1,0 +1,51 @@
+.soviet {
+	color:red;
+}
+.soviet:link, .soviet:visited {
+	text-decoration:none;
+}
+.soviet:hover {
+	text-decoration:underline;
+}
+.link1, .link1:visited {
+	color:#2954a3;
+	font-style:italic;
+	text-decoration:none;
+}
+.link1:hover {
+	text-decoration:underline;
+}
+.content {
+	background-color: white;
+	padding: 20px;
+	text-align:center;
+	margin: 4%;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+body {
+	background-color: lightgray;
+}
+h1 {
+	margin: 0px;
+}
+p.content {
+	margin-bottom:0px;
+}
+#myself {
+	width: 250px;
+	margin: 0 auto;
+	padding-top: 10px;
+	border: 3px solid black;
+}
+address {
+	text-align:right;
+}
+.bot-left {
+	margin-left: 1.5%;
+}
+.bot-right {
+	font-size:15px;
+	font-family:Verdana;
+	margin-right: 2%;
+}
